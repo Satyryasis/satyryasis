@@ -21,4 +21,4 @@ I'm actually working on several projects :
 To contact me, you have two ways :
 
 - E-mail : satyryasis@gmail.com
-- Discord : Satyryasis#9912
+- Discord : S8tyn#9912
