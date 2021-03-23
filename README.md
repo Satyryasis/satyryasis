@@ -4,7 +4,7 @@ My name is Doriane ! I'm a French developer that creates projects to pass the ti
 
 ###  :us: Languages
 
-Such as written in my bio, I develop softwares using **C/C++** and sometimes the devil's language (**Java**). Since somes months, I create websites as a front-end dev using **HTML5 & CSS3**. I'm actually learning **JavaScript**, **Angular**, **React** and **Vue** to improves the pages.
+Such as written in my bio, I develop softwares using **C/C++** and sometimes the devil's language (**Java**). Since somes months, I create websites as a front-end dev using **HTML5 & CSS3**. I'm actually learning **JavaScript**, **Angular**, **React** and **Vue** to improve the pages.
 
 ###  :hammer: Projects
 
